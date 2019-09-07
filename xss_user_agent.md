@@ -11,6 +11,9 @@
 ทำการ Scan หาช่องโหว่
 ![GitHub_Logo](/Pic/xss-u5.jpg)
 
+![GitHub_Logo](/Pic/Xss-U-n (1).jpg)
+![GitHub_Logo](/Pic/Xss-U-n (2).jpg)
+![GitHub_Logo](/Pic/Xss-U-n (3).jpg)
 เข้าไปที่ Web.192.168.43.95/bWAPP/xss_user_agent.php
 ![GitHub_Logo](/Pic/messageImage_1567830235503.jpg)
 จากนั้นให้ทำการเปิด Brup Suite เพื่อทำการดักจับข้อมูลที่รับ-ส่ง
