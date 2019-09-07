@@ -47,6 +47,6 @@
 ![GitHub_Logo](/Pic/x1.1.jpg)
 
 จากนั้นทำการทดสอบช่องโหว่อีกครั้ง จะพบว่าช่องโหว่ได้รับการแก้ไข
-![GitHub_Logo](/Pic/x1.5.jpg)
+![GitHub_Logo](/Pic/x1.6.jpg)
 
 
