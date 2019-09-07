@@ -8,19 +8,16 @@
 
 =========================
 
-ทำการ Scan หาช่องโหว่
-![GitHub_Logo](/Pic/xss-u5.jpg)
+ทำการ Scan หาช่องโหว่ โดย Rips พบว่า code มีช่องโหว่ของ XSS ที่ส่วนของ User-agent
+![GitHub_Logo](/Pic/x1.1.jpg)
+![GitHub_Logo](/Pic/x1.2.jpg)
+![GitHub_Logo](/Pic/x1.3.jpg)
+![GitHub_Logo](/Pic/x1.4.jpg)
+![GitHub_Logo](/Pic/x1.5.jpg)
+![GitHub_Logo](/Pic/x1.6.jpg)
+![GitHub_Logo](/Pic/x1.7.jpg)
+![GitHub_Logo](/Pic/x1.8.jpg)
+![GitHub_Logo](/Pic/x1.9.jpg)
+![GitHub_Logo](/Pic/x1.10.jpg)
+![GitHub_Logo](/Pic/x1.11.jpg)
 
-![GitHub_Logo](/Pic/Xss-U-n (1).jpg)
-![GitHub_Logo](/Pic/Xss-U-n (1).jpg)
-
-![GitHub_Logo](/Pic/Xss-U-n (2).jpg)
-
-![GitHub_Logo](/Pic/Xss-U-n (3).jpg)
-
-เข้าไปที่ Web.192.168.43.95/bWAPP/xss_user_agent.php
-![GitHub_Logo](/Pic/messageImage_1567830235503.jpg)
-จากนั้นให้ทำการเปิด Brup Suite เพื่อทำการดักจับข้อมูลที่รับ-ส่ง
-![GitHub_Logo](/Pic/messageImage_1567830255952.jpg)
-
-![GitHub_Logo](/Pic/messageImage_1567830255952.jpg)
