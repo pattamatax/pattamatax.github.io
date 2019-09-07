@@ -1,8 +1,8 @@
 รายชื่อกลุ่ม 
 
-1.sirimongkol wongfu
+1.Sirimongkol Wongfu
 
-2.pattama Thongprapai
+2.Pattama Thongprapai
 
 3.Ardnarong Boonkerd
 
